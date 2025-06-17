@@ -1,0 +1,19 @@
+[
+  {
+    "repository": "device_motorola_sm6225-common",
+    "target_path": "device/motorola/sm6225-common",
+    "remote": "evo-devices"
+  },
+  {
+    "repository": "Deivid-21s-Sources/proprietary_vendor_motorola_rhode",
+    "target_path": "vendor/motorola/rhode",
+    "remote": "github-non-los",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "LineageOS/android_hardware_samsung_slsi_nfc",
+    "target_path": "hardware/samsung_slsi/nfc",
+    "remote": "github-non-los",
+    "branch": "lineage-23.2"
+  }
+]
