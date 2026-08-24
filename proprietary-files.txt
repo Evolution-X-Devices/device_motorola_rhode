@@ -198,6 +198,15 @@ vendor/firmware/sec_s3nrn4v_firmware.bin
 # OEM
 vendor/etc/vhw.xml
 
+# Perf configs
+vendor/etc/perf/commonresourceconfigs.xml
+vendor/etc/perf/commonsysnodesconfigs.xml
+vendor/etc/perf/perfboostsconfig.xml
+vendor/etc/perf/perfconfigstore.xml
+vendor/etc/perf/targetconfig.xml
+vendor/etc/perf/targetresourceconfigs.xml
+vendor/etc/powerhint.xml
+
 # SAR firmware
 vendor/firmware/aw9610x_0.bin
 
